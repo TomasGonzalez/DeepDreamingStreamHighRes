@@ -4,7 +4,7 @@ The size/resolution limitation of the original deepdream Caffe implementation ma
 
 Install Requirements:
 
-- Python 2.7
+- Python 3
 - TensorFlow (>=r0.7)
 - NumPy
 
